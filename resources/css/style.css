@@ -21,7 +21,7 @@ body {
     .header--sub-header {
         color: gray;
         font-size: 21px;
-        
+
     }
 
     /* LINKS */
@@ -29,4 +29,12 @@ body {
     .link--cta {
         font-size: 16px;
         color:aquamarine;
+    }
+
+    /* FOOTER */
+    
+    .footer--copyright {
+        color: gray;
+        font-size: 21px;
+        text-align: right;
     }
